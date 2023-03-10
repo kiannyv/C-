@@ -1,0 +1,6 @@
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.csproj.AssemblyReference.cache
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.csproj.SuggestedBindingRedirects.cache
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.Form1.resources
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.Properties.Resources.resources
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.csproj.GenerateResource.cache
+C:\Users\50671\source\repos\Trasporte\Trasporte\obj\Debug\Trasporte.csproj.CoreCompileInputs.cache
